@@ -1,0 +1,18 @@
+# ============================================================
+# requirements.txt — ILPD Liver Disease ML Project
+# FIXED: No pinned versions — pip picks the right ones
+#        for your Python version and system automatically
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+streamlit
+scipy
+joblib
